@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.listit191371" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Memor</name>
+  <name>Memorite</name>
   <description>
-        A Windows Phone Application
+        A Windows Phone Flash Card Application For Memorization
     </description>
-  <author email="jhorne@hashbang.sh" href="http://thehorne.com/listit">
+  <author email="jhorne@hashbang.sh" href="http://thehorne.com/memorite">
       Jesse Horne
     </author>
   <content src="index.html"/>
